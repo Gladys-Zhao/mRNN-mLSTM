@@ -1,7 +1,9 @@
 # Memory-augmented Recurrent Networks (mRNN+mLSTM)
 
-** News ** 
+**News** 
+
 本版本为preview版，后续正式版本会在 https://github.com/huawei-noah 上发布。
+
 This is a preview version. The official version will be available at https://github.com/huawei-noah at a later stage.
 
 ---
@@ -34,13 +36,13 @@ Please refer to the paper for an introduction to datasets and the required refer
   python train.py --dataset 'tree7' --algorithm 'mLSTM'
   ```
 
-** Available datasets **
+**Available datasets**
 - ARFIMA series: `arfima`
 - Dow Jones Industrial Average (DJI): `DJI`
 - Metro interstate traffic volume: `traffic`
 - Tree ring: `tree7`
 
-** Available algorithms **
+**Available algorithms**
 - vanilla RNN: `RNN`
 - vanilla LSTM: `LSTM`
 - Memory-augmented RNN with homogeneous memory parameter d: `mRNN_fixD`
@@ -64,7 +66,7 @@ Please refer to the paper for an introduction to datasets and the required refer
      python train.py --algorithm 'mLSTM_fixD'
      ```
 
-** Available algorithms **
+**Available algorithms**
 - vanilla RNN: `RNN`
 - vanilla LSTM: `LSTM`
 - Memory-augmented RNN with homogeneous memory parameter d: `mRNN_fixD`
