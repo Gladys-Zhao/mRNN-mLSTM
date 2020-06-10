@@ -73,4 +73,4 @@ Please refer to the paper for an introduction to datasets and the required refer
 - Memory-augmented LSTM with homogeneous d: `mLSTM_fixD`
 
 ### License
-© Contributors, 2020. Licensed under a [BSD 3-Clause](License.txt) license.
+© Contributors, 2020. Licensed under a [BSD 3-Clause](LICENSE) license.
