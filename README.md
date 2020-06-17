@@ -2,9 +2,9 @@
 
 **News** 
 
-本版本为preview版，后续正式版本会在 https://github.com/huawei-noah 上发布。
+本版本为preview版，后续正式版本会在 https://github.com/huawei-noah/noah-research/tree/master/mRNN-mLSTM 上发布。
 
-This is a preview version. The official version will be available at https://github.com/huawei-noah at a later stage.
+This is a preview version. The official version will be available at https://github.com/huawei-noah/noah-research/tree/master/mRNN-mLSTM at a later stage.
 
 ---
 
